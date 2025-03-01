@@ -1,9 +1,11 @@
 ---
-title: "My title"
+title: "TTC Delay"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
+  - Narae Lee
+  - Sara Sanos
+  - Adelyn Lee
+  - Chay Park
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
