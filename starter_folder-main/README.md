@@ -56,7 +56,7 @@ The entire codebase and datasets used for this analysis are available in this re
 
 For any questions or clarifications, feel free to reach out to the repository owner.
 
-*Code and data supporting this analysis is available at: https://github.com/Chay-HyunminPark/Social-Science-Study
+*Code and data supporting this analysis is available at: https://github.com/Chay-HyunminPark/TTC-Delay.git
 
 ## Statement on LLM Usage
-Certain sections of the code were generated with the assistance of ChatGPT3.5. The complete chat history is available in `inputs/llms/usage.txt`. 
+Certain sections of the code were generated with the assistance of ChatGPT4o. The complete chat history is available in `inputs/llms/usage.txt`. 
