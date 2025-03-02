@@ -1,3 +1,11 @@
+#### Preamble ####
+# Purpose: Models and tests the datasets
+# Author: Chay Park
+# Date: 1 March 2025 
+# Contact: chay.park@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: polars library, use the cleaned data in outputs > data > ttc_delays_ratio.csv
+
 # -*- coding: utf-8 -*-
 """TTC.ipynb
 
