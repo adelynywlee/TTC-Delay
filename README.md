@@ -2,10 +2,10 @@
 
 This repository focuses on forecasting delays in the Toronto Transit Commission (TTC) network. By analyzing transit data, we aim to predict the occurrence, location, and duration of delays across streetcars, subways, and buses. Our model provides insights to optimize transit operations and improve service reliability, supporting a more efficient and sustainable transportation system in Toronto.
 
-# Problem statement
+## Problem statement
 The TTC serves as a lifeline for Toronto's urban mobility, offering millions of daily trips across streetcars, subways, and buses. However, recurring delays across various routes hinder the TTC's ability to deliver consistent service. This issue undermines public confidence and complicates efforts to promote sustainable transportation, crucial for reducing the city's carbon footprint by encouraging fewer car journeys. Addressing these challenges is vital for the TTC to fulfill its mandate of providing an incentive to alternative transit solutions. 
 
-# Objective
+## Objective
 Develop a solution to forecast the occurrence, location, and during of delays within the TTC network. By accurately predicting when and where delays are most likely to occur, as well as estimating their length, the model will provide valuable insights for optimizing transit operations and enhancing the reliability of service across the city.
 
 ## Reproducibility
