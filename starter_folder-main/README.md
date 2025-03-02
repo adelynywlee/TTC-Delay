@@ -32,10 +32,10 @@ import pandas as pd
 ```
 
 ### Code Execution
-The analysis is performed in R, and the code is available in the `analysis` directory. To execute the code, follow these steps:
+The analysis is performed in python, and the code is available in the `scripts` directory. To execute the code, follow these steps:
 
 1. Load the required libraries.
-2. Read the cleaned data from the CSV file.
+2. Read the cleaned data from the CSV/xlsx file.
 3. Perform data filtering and manipulation for specific analyses.
 4. Generate tables and graphs to visualize trends.
 
